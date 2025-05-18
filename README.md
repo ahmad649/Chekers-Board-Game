@@ -28,12 +28,12 @@
 
 ## Instructions to Run the Program
 
-1.  Save the provided C++ code as a `.cpp` file (e.g., `checkers.cpp`).
+1.  Save the provided C++ code as `Checkers Board.cpp`.
 2.  Open a terminal or command prompt.
-3.  Navigate to the directory where you saved the `checkers.cpp` file.
-4.  Compile the program using a C++ compiler (like g++):
+3.  Navigate to the directory where you saved the `Checkers Board.cpp` file.
+4.  Compile the program using a C++ compiler (like g++). Make sure to enclose the filename in quotes because of the space:
     ```bash
-    g++ checkers.cpp -o checkers
+    g++ "Checkers Board.cpp" -o checkers
     ```
 5.  Run the compiled executable:
     ```bash
